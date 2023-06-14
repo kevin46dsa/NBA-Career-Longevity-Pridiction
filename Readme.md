@@ -11,7 +11,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# NBA Career Longevity Prediction
+# <img src="https://github.com/kevin46dsa/NBA-Career-Longevity-Pridiction/assets/67777018/d7966de0-4e09-463b-a2fd-a6bb8121d99e" alt="NBA Logo" height="60"> NBA Career Longevity Prediction
 
 This repository contains the code for the NBA Career Longevity Prediction project developed for the CS 513 course. The project aims to predict the career longevity of NBA players based on various features and factors.
 <!-- PROJECT LOGO -->

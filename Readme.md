@@ -14,6 +14,27 @@
 # NBA Career Longevity Prediction
 
 This repository contains the code for the NBA Career Longevity Prediction project developed for the CS 513 course. The project aims to predict the career longevity of NBA players based on various features and factors.
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/kevin46dsa/NBA-Career-Longevity-Pridiction"><strong>Explore the docs</strong></a>
+    ·
+    <a href="https://github.com/kevin46dsa/NBA-Career-Longevity-Pridiction/blob/master/KDD%20Presentation.pptx.pdf">View Project Presentation</a>
+     ·
+    <a href="https://github.com/kevin46dsa/NBA-Career-Longevity-Pridiction/tree/master/CS%20513_Final_Project_Code">View Project Code</a>
+     ·
+    <a href="https://github.com/kevin46dsa/NBA-Career-Longevity-Pridiction/blob/master/CS%20513_Final_Project_Code/Test_data.csv">Test Data</a>
+     <br/>
+     <br/>
+  </p>
+</div>
+<div class="image-container">
+     <img src="https://github.com/kevin46dsa/NBA-Career-Longevity-Pridiction/assets/67777018/8527140e-1bfa-498e-9972-933a5b752225" alt="drawing" width="500" height="350"/>
+     <img src="https://github.com/kevin46dsa/NBA-Career-Longevity-Pridiction/assets/67777018/139c3a3c-256a-402f-943d-146e57635157" alt="drawing" width="500" height="350"/>
+    </div>
+
+
 
 ## Table of Contents
 
